@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on innovative web applications, open-source projects, and anything related to backend architecture.
 - 📫 How to reach me:  
   - Email: anmoltiwari621@gmail.com  
-  - LinkedIn: [linkedin.com/in/AnmolTwari](https://www.linkedin.com/in/AnmolTwari)  
+  - LinkedIn: [linkedin.com/in/AnmolTwari](https://www.linkedin.com/in/openit/)  
   - GitHub: [github.com/AnmolTwari](https://github.com/AnmolTwari)
 
 - 😄 Pronouns: He/Him
