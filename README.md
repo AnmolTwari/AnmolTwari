@@ -1,21 +1,30 @@
-# 👋 Hi, I'm Anmol Tiwari
+<div align="center">
 
-### ☕ Java Full Stack Developer | Spring Boot | Angular | React
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Anmol%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/openit">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnmolTwari">
-    <img src="https://img.shields.io/badge/GitHub-AnmolTwari-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anmoltiwari621@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://iamanmol.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/openit">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AnmolTwari">
+  <img src="https://img.shields.io/badge/GitHub-AnmolTwari-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:anmoltiwari621@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://iamanmol.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/AnmolTwari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Spring+Security;Angular+%7C+React+%7C+TypeScript;Building+secure%2C+scalable+web+apps;AI+%2B+Software+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AnmolTwari&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/AnmolTwari?label=Followers&style=social" alt="followers"/>
+
+</div>
 
 ---
 
@@ -23,158 +32,164 @@
 
 I'm a **Java Full Stack Developer** focused on building secure, scalable, and maintainable web applications.
 
-* 💻 Building applications with **Java, Spring Boot, Spring Security, Angular and React**
-* 🔐 Interested in **REST APIs, JWT, OAuth2, RBAC and secure backend architecture**
-* 🗄️ Working with **MySQL, PostgreSQL and MongoDB**
-* 🧪 Writing backend tests and focusing on reliable application design
-* ☁️ Exploring **AWS, system design and scalable application architecture**
-* 🤖 Interested in combining **AI with practical software applications**
-* 🌱 Continuously improving my problem-solving and software engineering skills
+```yaml
+name: Anmol Tiwari
+role: Java Full Stack Developer
+focus: [Spring Boot, Spring Security, Angular, React]
+interests: [REST APIs, JWT, OAuth2, RBAC, System Design]
+databases: [MySQL, PostgreSQL, MongoDB]
+cloud: [AWS]
+currently_exploring: AI-powered applications
+fun_fact: "☕ Turns coffee into commits"
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" />
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind" />
 
 ### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 ### Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,aws,docker,vscode,idea" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,aws,docker,vscode,idea" />
-</p>
+</div>
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🏪 ShopManager
+<details open>
+<summary><b>🏪 ShopManager — Full-stack business management platform</b></summary>
+<br/>
 
-**Full-stack business management platform for small shop owners.**
+Built for small shop owners to manage inventory, sales, and reporting.
 
-* 📦 Product and inventory management
-* 💰 Sales and reporting workflows
-* 🔐 JWT authentication with Spring Security
-* 🏢 Multi-tenant data isolation
-* 🧪 46 backend tests
-* ⚛️ React frontend
-* ☕ Spring Boot backend
-* 🐘 PostgreSQL database
+- 📦 Product and inventory management
+- 💰 Sales and reporting workflows
+- 🔐 JWT authentication with Spring Security
+- 🏢 Multi-tenant data isolation
+- 🧪 46 backend tests
+- ⚛️ React frontend · ☕ Spring Boot backend · 🐘 PostgreSQL database
 
-**Stack:** `Java` `Spring Boot` `React` `PostgreSQL` `Spring Security` `JWT`
+`Java` `Spring Boot` `React` `PostgreSQL` `Spring Security` `JWT`
 
----
+</details>
 
-### 📁 Enterprise File Management System
+<details>
+<summary><b>📁 Enterprise File Management System — Mphasis Internship Project</b></summary>
+<br/>
 
-**Role-based enterprise file management platform developed during my Mphasis internship.**
+Role-based enterprise file management platform.
 
-* 🔐 JWT Authentication
-* 🔑 Google OAuth2
-* 👥 Role-Based Access Control
-* 🔗 12+ RESTful APIs
-* 🗄️ Spring Data JPA & Hibernate
-* 📊 Audit logging
-* 🏗️ Controller-Service-Repository architecture
+- 🔐 JWT Authentication
+- 🔑 Google OAuth2
+- 👥 Role-Based Access Control
+- 🔗 12+ RESTful APIs
+- 🗄️ Spring Data JPA & Hibernate
+- 📊 Audit logging
+- 🏗️ Controller-Service-Repository architecture
 
-**Stack:** `Java 21` `Spring Boot` `Angular 17` `MySQL` `Spring Security`
+`Java 21` `Spring Boot` `Angular 17` `MySQL` `Spring Security`
 
----
+</details>
 
-### 🤖 ResuMatch AI
+<details>
+<summary><b>🤖 ResuMatch AI — AI-assisted Applicant Tracking System</b></summary>
+<br/>
 
-**AI-assisted Applicant Tracking System for recruiters.**
+Helps recruiters parse resumes and manage candidates efficiently.
 
-* 📄 Resume parsing
-* 👨‍💼 Recruiter dashboard
-* 🔐 JWT authentication
-* ⚡ FastAPI backend
-* ⚛️ React + TypeScript frontend
-* 🐘 PostgreSQL database
+- 📄 Resume parsing
+- 👨‍💼 Recruiter dashboard
+- 🔐 JWT authentication
+- ⚡ FastAPI backend
+- ⚛️ React + TypeScript frontend
+- 🐘 PostgreSQL database
 
-**Stack:** `React` `TypeScript` `FastAPI` `Python` `PostgreSQL`
+`React` `TypeScript` `FastAPI` `Python` `PostgreSQL`
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolTwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTwari&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolTwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTwari&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolTwari&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolTwari&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnmolTwari&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnmolTwari/AnmolTwari/output/github-contribution-grid-snake.svg" width="90%"/>
+
+<sub>⚙️ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo to auto-generate this animation daily.</sub>
+
+</div>
 
 ---
 
 ## 🧠 Currently Learning
 
-```text
-Java & Spring Boot
-        ↓
-System Design
-        ↓
-Scalable Backend Architecture
-        ↓
-AWS & Cloud Deployment
-        ↓
-AI-powered Applications
+```mermaid
+flowchart LR
+    A[Java & Spring Boot] --> B[System Design]
+    B --> C[Scalable Backend Architecture]
+    C --> D[AWS & Cloud Deployment]
+    D --> E[AI-powered Applications]
 ```
 
 ---
 
 ## 🎯 2026 Goals
 
-* [x] Complete Java Full Stack internship
-* [x] Build production-style Spring Boot applications
-* [x] Build full-stack applications with React
-* [x] Work with PostgreSQL and relational database design
-* [ ] Strengthen System Design fundamentals
-* [ ] Improve AWS & cloud deployment skills
-* [ ] Contribute to open-source projects
-* [ ] Build more AI-powered applications
+- [x] Complete Java Full Stack internship
+- [x] Build production-style Spring Boot applications
+- [x] Build full-stack applications with React
+- [x] Work with PostgreSQL and relational database design
+- [ ] Strengthen System Design fundamentals
+- [ ] Improve AWS & cloud deployment skills
+- [ ] Contribute to open-source projects
+- [ ] Build more AI-powered applications
 
 ---
 
 ## 💬 Let's Connect
 
-I'm always interested in discussing:
+I'm always up for a conversation about **Java · Spring Boot · Full Stack Development · Backend Architecture · AI · Open Source**
 
-**Java • Spring Boot • Full Stack Development • Backend Architecture • AI • Open Source**
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/openit">
-    <img src="https://img.shields.io/badge/Let's%20Connect-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://iamanmol.vercel.app">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/openit">
+  <img src="https://img.shields.io/badge/Let's%20Connect-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://iamanmol.vercel.app">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<p align="center">
-  <i>☕ Turning ideas into code, one commit at a time.</i>
-</p>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=100&section=footer" width="100%"/>
+
+<i>☕ Turning ideas into code, one commit at a time.</i>
+
+</div>
