@@ -16,9 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+JavaScript+%2F+TypeScript;Spring+Boot+%7C+FastAPI+%7C+Node.js;Angular+%7C+React;Building+secure%2C+scalable+web+apps" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=AnmolTwari&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/AnmolTwari?label=Followers&style=social" alt="followers"/>
-
 </div>
 
 ---
